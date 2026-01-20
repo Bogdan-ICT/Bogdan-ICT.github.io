@@ -1,5 +1,5 @@
 ---
-title: "temp_website"
+title: "My test website"
 ---
 
 This is a Quarto website.
